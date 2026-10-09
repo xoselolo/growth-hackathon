@@ -6,3 +6,6 @@ controllers/
 sketch.png
 annotate.png
 note.txt
+perf.log
+.playwright-cli/
+.orch/
